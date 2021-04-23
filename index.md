@@ -1,8 +1,10 @@
 ## Analysis of the ALARM Monitering System to Determine Causality
 
-You can use the [editor on GitHub](https://github.com/albert0789/Data-Science-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Alberto Cruz, MPH
+MS Student, Data Science, Biostatistical Data Analytics Track
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Capstone Project
+Mentor: Dr. Yoo
 
 ### Markdown
 
